@@ -1,2 +1,1 @@
-# /
-project-1 operators
+# project-1 operators
